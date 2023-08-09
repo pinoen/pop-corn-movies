@@ -27,7 +27,6 @@
 - The watched list has some statistic about the movies such as total number of movies, average movies rate and average duration.
 - Movies can be removed from the wathced list.
 - Found movies and watched movies panels can be collapsed. 
-- Requires no user accounts and no login: users just input their names before using the app.
 ![Homepage](public/movies.png)
 
 ## Acknowledgements
